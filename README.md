@@ -14,13 +14,16 @@ image:
   url: <link to a title image>
 ---
 
-What are GANs?
+### What are GANs?
+
 Unlike previous deep learning fields which focus on identifying things, generative models try to produce things. Identifying an image as drawn by Monet or as a fake is easy, but creating a drawing in the Monet style is quite challenging. GANs aare the framework the do so. Cool, isnt it?
 
-Generator And Discriminator
+### Generator And Discriminator
+
 GANs try to achieve what they promise to do by using an adverserial process of training two networks simultaneously ,the Generator networkwhich tries to capture the data distribution by producing stuff from absolute noise, and the Discrimnator network which tries to tell the probability that the data point came from the original distribution compared to the generator network. This turns out to be a MiniMax two player game.
 
-Adverserial Nets
+### Adverserial Nets
+
 Both the networks are multilayer perceptrons. G(z;θg) is a differentiable function such that z is sampled from random noise and  θg are the parameters we wish to learn. D(x;θd) is the second network that takes x either from the generator netowrk or the original distribution and predicts the probability of its coming from the latter to its former. 
 
 D is trained so as to maximise the assigning of correct labels to data from original distribution and that from G. Simultaneously G is trained to fool D.
@@ -41,7 +44,8 @@ The following Algorithm is generally followed to train the network.
 
 ∇θg1mm∑i=1log(1−D(G(z(i))))
 
-Wide Applications of GANs
+### Wide Applications of GANs
+
 So the big question is why should one learn about GANs?
 One impetus is definitely the cool applications it has. Listed below are some really amazing applications that would surely want you to explore more about GANs and want to try them out. 
 
