@@ -51,11 +51,15 @@ One impetus is definitely the cool applications it has. Listed below are some re
 
 Creating Anime Characters
 	Heavy tasks like game generation and animation will reduce much human labour with the advent of GANs.
+	![Image] (https://cdn-images-1.medium.com/max/800/1*4oqZHrOOZRDzMsJA_eqW1g.png)
 Text to Image 
 	We can input a sentence and generate multiple images fitting the description.
+	![Image] (https://cdn-images-1.medium.com/max/800/1*okKk6wH36cuCbQJdmkP7ng.png)
 Face Aging
 	An attempt to produce the probable images at differnet ages of an input image by trying to retain most of th salient features.
-	![Face Aging GANs] (https://cdn-images-1.medium.com/max/800/1*okKk6wH36cuCbQJdmkP7ng.png)
+	![Image] (https://cdn-images-1.medium.com/max/800/1*r4IQ7Z5fIm7ugpFnpfltYA.png)
+	
+	
 ### References
 
 Inspired enough?
