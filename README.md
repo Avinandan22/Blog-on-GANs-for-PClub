@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Technical Blog on Generative Adverserial Networks"
 date: 2019-05-05 17:23:20 +200
@@ -5,13 +6,10 @@ author: <Avinandan  Bose>
 website: <website-if-any>
 category:
 tags:
-- some tag
-- another tag
+- probabilistic machine learning
 categories:
-- a category
-
-image:
-  url: <link to a title image>
+- deep learning
+-generative adverserial networks
 ---
 
 ### What are GANs?
