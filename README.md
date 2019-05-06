@@ -57,5 +57,9 @@ Face Aging
 	An attempt to produce the probable images at differnet ages of an input image by trying to retain most of th salient features.
 
 
+### References
 
+Inspired enough?
+Check out the original research paper on GANs by Ian Goodfellow and begin rightaway!
+[Original Paper on GANs by Ian Goodfellow] (https://arxiv.org/pdf/1406.2661.pdf)
 
