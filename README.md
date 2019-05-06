@@ -55,7 +55,7 @@ Text to Image
 	We can input a sentence and generate multiple images fitting the description.
 Face Aging
 	An attempt to produce the probable images at differnet ages of an input image by trying to retain most of th salient features.
-	![Face Aging GANs] (https://medium.com/@jonathan_hui/gan-some-cool-applications-of-gans-4c9ecca35900)
+	![Face Aging GANs] (https://cdn-images-1.medium.com/max/800/1*okKk6wH36cuCbQJdmkP7ng.png)
 ### References
 
 Inspired enough?
