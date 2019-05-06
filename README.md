@@ -16,11 +16,11 @@ image:
 
 ### What are GANs?
 
-Unlike previous deep learning fields which focus on identifying things, generative models try to produce things. Identifying an image as drawn by Monet or as a fake is easy, but creating a drawing in the Monet style is quite challenging. GANs aare the framework the do so. Cool, isnt it?
+Unlike previous deep learning fields which focus on classifying things, generative models try to produce things. Classifying an image as drawn by Monet or as a fake is easy, but creating a drawing in the Monet style is quite challenging. GANs are the solution to this challenge. Cool, isn't it?
 
 ### Generator And Discriminator
 
-GANs try to achieve what they promise to do by using an adverserial process of training two networks simultaneously ,the Generator networkwhich tries to capture the data distribution by producing stuff from absolute noise, and the Discrimnator network which tries to tell the probability that the data point came from the original distribution compared to the generator network. This turns out to be a MiniMax two player game.
+GANs try to achieve what they promise to do by using an adverserial process of training two networks simultaneously ,the Generator network which tries to capture the data distribution by producing stuff from absolute noise, and the Discrimnator network which tries to tell the probability that the data point came from the original distribution compared to the generator network. This turns out to be a MiniMax two player game.
 
 ### Adverserial Nets
 
@@ -50,11 +50,11 @@ So the big question is why should one learn about GANs?
 One impetus is definitely the cool applications it has. Listed below are some really amazing applications that would surely want you to explore more about GANs and want to try them out. 
 
 Creating Anime Characters
-	Heavy tasks like game generation and animation will reduce much 	human labour with the advent of GANs.
+	Heavy tasks like game generation and animation will reduce much human labour with the advent of GANs.
 Text to Image 
-	We can input a sentence and generate multiple images fitting the 	description.
+	We can input a sentence and generate multiple images fitting the description.
 Face Aging
-	An attempt to produce the probable images at differnet ages of an input 	image by trying to retain most of th salient features.
+	An attempt to produce the probable images at differnet ages of an input image by trying to retain most of th salient features.
 
 
 
